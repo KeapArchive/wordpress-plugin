@@ -5,10 +5,10 @@
 *IF YOU ARE AN INFUSIONSOFT & WORDPRESS USER:* If your plugin says that you'll have Infusionsoft functionality enabled after installing this plugin, please do so, and then set your Infusionsoft API credentials in WordPress settings. You're done!
 
 *IF YOU ARE LOOKING FOR INFUSIONSOFT PLUGINS:* There is probably a better plugin for day to day use than this one. Some include:
-- Infusionsoft + Gravity Forms Integration: http://wordpress.org/extend/plugins/infusionsoft/
-- Infusionsoft Web Tracking Code: http://wordpress.org/extend/plugins/infusionsoft-web-tracking-code/ or http://wordpress.org/extend/plugins/infusionsoft-web-tracker/
-- Infusionsoft Affiliates: http://wordpress.org/extend/plugins/infusionsoft-affiliates/
-- Infusionsoft Web Forms: http://wordpress.org/extend/plugins/novak-solutions-javascript-infusionsoft-webform-plugin/
+- Infusionsoft + Gravity Forms Integration: http://wordpress.org/plugins/infusionsoft/
+- Infusionsoft Web Tracking Code: http://wordpress.org/plugins/infusionsoft-web-tracking-code/ or http://wordpress.org/extend/plugins/infusionsoft-web-tracker/
+- Infusionsoft Affiliates: http://wordpress.org/plugins/infusionsoft-affiliates/
+- Infusionsoft Web Forms: http://wordpress.org/plugins/novak-solutions-javascript-infusionsoft-webform-plugin/
 
 *IF YOU ARE A DEVELOPER:* We hope this plugin can be useful and make integration with the Infusionsoft API a little bit easier. This plugin is designed for you to disassemble - take part or all of it for your implementations and integrate Infusionsoft functionality into your plugin, or instruct your users to install this and use the Infusionsoft global object as defined below.
 

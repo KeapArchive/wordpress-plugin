@@ -1,17 +1,17 @@
 === Infusionsoft WordPress Developers Plugin ===
 Contributors: ryno267, andrewryno, kressaty
 Donate link:
-Tags: infusionsoft, api, gravity forms,
+Tags: infusionsoft, api, gravity forms, infusionsoft api,
 Requires at least: 3.4.2
-Tested up to: 3.5.1
-Stable tag: 0.1
+Tested up to: 3.9
+Stable tag: 0.2
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin adds Infusionsoft API hooks for developers
 
 == Description ==
-This plugin is primarily designed for developers, and only provides a basic feature set for the average WordPress user.
+This plugin is primarily designed for developers adding Infusionsoft API hooks for use in WP. It only provides a basic feature set for the average WordPress user.
 
 = If you are a  Developer =
 We hope this plugin can be useful and make integration with the Infusionsoft API a little bit easier. This plugin is designed for you to disassemble - take part or all of it for your implementations and integrate Infusionsoft functionality into your plugin, or instruct your users to install this and use the Infusionsoft global object as defined below.
@@ -23,10 +23,10 @@ If your plugin says that you'll have Infusionsoft functionality enabled after in
 
 = If you are Looking for simple non-developer Infusionsoft Plugins =
 There is probably a better plugin for day to day use than this one. Some include:
-- Infusionsoft + Gravity Forms Integration: http://wordpress.org/extend/plugins/infusionsoft/
-- Infusionsoft Web Tracking Code: http://wordpress.org/extend/plugins/infusionsoft-web-tracking-code/ or http://wordpress.org/extend/plugins/infusionsoft-web-tracker/
-- Infusionsoft Affiliates: http://wordpress.org/extend/plugins/infusionsoft-affiliates/
-- Infusionsoft Web Forms: http://wordpress.org/extend/plugins/novak-solutions-javascript-infusionsoft-webform-plugin/
+- Infusionsoft + Gravity Forms Integration: http://wordpress.org/plugins/infusionsoft/
+- Infusionsoft Web Tracking Code: http://wordpress.org/plugins/infusionsoft-web-tracking-code/ or http://wordpress.org/plugins/infusionsoft-web-tracker/
+- Infusionsoft Affiliates: http://wordpress.org/plugins/infusionsoft-affiliates/
+- Infusionsoft Web Forms: http://wordpress.org/plugins/novak-solutions-javascript-infusionsoft-webform-plugin/
 
 
 = Using the Infusionsoft API =
@@ -74,8 +74,6 @@ Note that only the first letter is shifted from uppercase to lowercase.
 This plugin has basic integration with Gravity Forms built in, primarily to demonstrate functionality with another plugin. This functionality will be turned off if the Infusionsoft Gravity Forms plugin by Zach Katz is also installed.
 
 
-
-
 == Installation ==
 1. Upload the `infusionsoft-wordpress-plugin` folder to the `/wp-content/plugins/` directory
 1. Activate the Infusionsoft WordPress Developer's plugin through the 'Plugins' menu in WordPress
@@ -88,5 +86,7 @@ This plugin has basic integration with Gravity Forms built in, primarily to demo
 
 
 == Changelog ==
+= 0.2 =
+* test and update for WordPress 3.9
 = 1.0 =
 * Initial release
